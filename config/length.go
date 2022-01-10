@@ -19,6 +19,8 @@ const (
 	Length6
 	Length7
 	Length8
+	Length9
+	Length10
 )
 
 // Truncate will cut the provided number to fit the Length.
