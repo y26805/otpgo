@@ -1,4 +1,4 @@
-module github.com/jltorresm/otpgo
+module github.com/y26805/otpgo
 
 go 1.14
 
